@@ -42,5 +42,5 @@ Before running the app, ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/ecommerce-microservices.git
+git clone https://github.com/jennthecoder/ecommerce-microservices.git
 cd ecommerce-microservices
